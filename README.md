@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Institute of Communication and Computer Systems (ICCS) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://i-sense.iccs.gr/
+Institute of Communication and Computer Systems (ICCS) is a research institute within the National Technical University of Athens (NTUA). It focuses on advancing research and innovation in electrical, electronic, and computer engineering and technologies. ICCS operates multiple divisions such as Connected Cooperative Automated Mobility, Clean Industrial & Energy Systems, Smart Mobility Applied Systems, and many others, offering labs, test facilities, and collaborative projects across various domains.
+
+**Areas:** Research · Education · Engineering · Innovation · Greece
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://i-sense.iccs.gr/)
+- [Privacy policy](https://i-sense.iccs.gr/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/institute-of-communication-and-computer-systems-iccs/](https://apis.io/providers/institute-of-communication-and-computer-systems-iccs/).
